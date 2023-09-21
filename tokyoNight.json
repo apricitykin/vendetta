@@ -1,0 +1,140 @@
+{
+    "name": "TokyoNight",
+    "description": "’So just like that you’re fucking dead and gone’",
+    "authors": [
+        {
+            "name": "@Olivia",
+            "id": "499287211381096458"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#b1bae6"
+      ],
+      "HEADER_SECONDARY": [
+          "#565f89"
+      ],
+      "TEXT_NORMAL": [
+          "#b1bae6"
+      ],
+      "TEXT_MUTED": [
+          "#565f89"
+      ],
+      "TEXT_LINK": [
+          "#7f8cc9"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#5f647e"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#a2a6c2"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#b5bad1"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#55576b" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#1a1b26"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#171722"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#171722"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#16161e"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#434461"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#171722"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#171722"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#171722"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#171722"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#1a1b26"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#1a1b26"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#171722"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#242631"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#171722"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+          "#171722"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#5f647e"
+      ],
+      "TEXT_DANGER": [
+          "#565f89"
+      ],
+      "KEYBOARD": [
+          "#1a1b26"
+      ],
+      "CHANNEL_ICON": [
+          "#5f647e"
+      ],
+      "CHAT_BACKGROUND": [
+          "#1a1b26"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+          "#16161e"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+          "#171722"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#b1bae6",
+      "PRIMARY_200": "#16161e",
+      "PRIMARY_300": "#5f647e",
+      "PRIMARY_360": "#5f647e",
+      "PRIMARY_400": "#16161e",
+      "PRIMARY_500": "#16161e",
+      "PRIMARY_600": "#1a1b26",
+      "PRIMARY_630": "#171722",
+      "PRIMARY_660": "#171722",
+      "PRIMARY_700": "#1a1b26",
+      "PRIMARY_800": "#1a1b26",
+  
+      "BRAND_260": "#5f647e",
+      "BRAND_360": "#5f647e",
+      "BRAND_500": "#5f647e",
+      "BRAND_560": "#4C566A",
+      "WHITE_500": "#b1bae6",
+      "YELLOW_300": "#5f647e",
+      "GREEN_360": "#5f647e",
+      "RED_400": "#5f647e"
+  },
+    "plus": {
+        "version": 0,
+        "icons": {
+           "StatusStreaming": "#5f647e",
+           "StatusMobileOnline": "#b1bae6",
+           "StatusIdle": "#5f647e",
+           "StatusDND": "#b1bae6",
+           "StatusOffline": "#5f647e",
+           "StatusOnline": "#b1bae6"
+        }
+    },
+    "spec": 2
+}
