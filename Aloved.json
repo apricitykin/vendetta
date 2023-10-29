@@ -1,0 +1,91 @@
+{
+    "name": "Aloved",
+    "description": "Amoled but loved",
+    "authors": [
+        {
+            "name": "Miko",
+            "id": "499287211381096458"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMRARY": [
+            "#1c1d26"
+        ],
+        "HEADER_SECONDARY": [
+            "#b6b6b6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b6b8d4"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#b6b8d4"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#dcddde"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#6c757d"
+        ],
+        "BACKGROUND_PRIMRARY": [
+            "#040404"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#141414"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#141414"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#040404"
+        ],
+        "CHANNEL_ICON": [
+            "#b6b8d4"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b6b8d4"
+        ],
+        "TEXT_LINK": [
+            "#7289DA"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#7289DA"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#040404"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#6c757d"
+        ],
+        "CHAT_BACKGROUND":[
+            "#040404"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#0c0c0c"
+        ]
+    },
+    "rawColors": {
+        "BRAND_300": "#dcddde",
+        "BRAND_360": "#7289DA",
+        "BRAND_500": "#7289DA",
+        "BRAND_560": "#6c757d",
+        "RED_400": "#7289DA",
+        "YELLOW_300": "#7289DA",
+        "PRIMARY_100": "#dcddde",
+        "PRIMARY_200": "#dcddde",
+        "PRIMARY_460": "#040404",
+        "PRIMARY_560": "#040404",
+        "PRIMARY_600": "#040404",
+        "PRIMARY_630": "#040404",
+        "PRIMARY_700": "#040404",
+        "PRIMARY_800": "#040404",
+        "BRAND_NEW_500_ALPHA_20": "#007bff33",
+        "PRIMARY_DARK_700_ALPHA_60": "#040404"
+    }
+}
