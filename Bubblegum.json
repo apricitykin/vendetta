@@ -1,0 +1,156 @@
+{
+    "name": "Bubblegum",
+    "description": "🍡🏳️‍⚧️",
+    "authors": [
+      {
+        "name": "Kirby",
+        "id": "499287211381096458"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#cba6f7"
+      ],
+      "BACKGROUND_FLOATING": [
+      "#605c7d"
+      ],
+      "BACKGROUND_MENTIONED": [
+      "#313244"
+      ],   
+      "BACKGROUND_MENTIONED_HOVER": [   
+      "#6c7086"
+      ],
+      "BACKGROUND_MESSAGE_AUTOMOD": [    
+      "#f23f430d"
+      ],
+      "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [     
+      "#f23f431a"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT": [     
+      "#f7949414"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#9399b2"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#9399b2"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#747096"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#605c7d"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#313244"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#605c7d"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#44415e"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#313244"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#747096"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#605c7d"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#605c7d"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#44415e"
+      ],
+      "CHANNEL_ICON": [
+      "#cba6f7"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#9399b2"
+      ],
+      "CHAT_BACKGROUND": [
+      "#747096"
+      ],
+      "HEADER_PRIMARY": [
+      "#cdd6f4"
+      ],
+      "HEADER_SECONDARY": [
+      "#bac2de"
+      ],
+      "HOME_BACKGROUND": [
+      "#2e2828"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#cdd6f4"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#9399b2"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#5b6078"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#9399b2"
+      ],
+      "MENTION_BACKGROUND": [
+      "#f258584d"
+      ],
+      "MENTION_FOREGROUND": [
+      "#fbc9c9"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#44415e"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+      "#cba6f7"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+      "#cba6f7"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+      "#cba6f7"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+      "#cba6f7"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#9399b2"
+      ],
+      "TEXT_DANGER": [
+      "#f38ba8"
+      ],
+      "TEXT_LINK": [
+      "#cba6f7"
+      ],
+      "TEXT_MUTED": [
+      "#a6adc8"
+      ],
+      "TEXT_NORMAL": [
+      "#cdd6f4"
+      ]
+  },
+    "rawColors": {
+      "BRAND_260": "#cba6f7",
+      "BRAND_360": "#cba6f7",
+      "BRAND_500": "#cba6f7",
+      "GREEN_360": "#a6e3a1",
+      "PRIMARY_100": "#cdd6f4",
+      "PRIMARY_300": "#747096",
+      "PRIMARY_360": "#cba6f7",
+      "PRIMARY_400": "#cba6f7",
+      "PRIMARY_460": "#605c7d",
+      "PRIMARY_500": "#cdd6f4",
+      "PRIMARY_600": "#747096",
+      "PRIMARY_630": "#747096",
+      "PRIMARY_660": "#44415e",
+      "PRIMARY_700": "#44415e",
+      "PRIMARY_800": "#605c7d",
+      "RED_400": "#cba6f7",
+      "WHITE_500": "#585b70",
+      "YELLOW_300": "#cba6f7"
+    },
+    "spec": 2
+}
