@@ -1,0 +1,190 @@
+{
+    "name": "Catppuccin Mocha Midnight",
+    "description": "Soothing pastel theme for the high-spirited!",
+    "authors": [
+      {
+        "name": "Catppuccin"
+      }
+    ],
+    "semanticColors": {
+      "BACKGROUND_ACCENT": [
+      "#f38ba8"
+      ],
+      "BACKGROUND_MENTIONED": [
+      "#313244"
+      ],   
+      "BACKGROUND_MENTIONED_HOVER": [   
+      "#6c7086"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT": [     
+      "#f7949414"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
+      "#9399b2"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+      "#9399b2"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+      "#1d1e30"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+      "#171a23"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+      "#313244"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+      "#171a23"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+      "#12151c"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+      "#313244"
+      ],
+      "BACKGROUND_PRIMARY": [
+      "#1d1e30"
+      ],
+      "BACKGROUND_SECONDARY": [
+      "#171a23"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+      "#171a23"
+      ],
+      "BACKGROUND_TERTIARY": [
+      "#12151c"
+      ],
+      "CHANNEL_ICON": [
+      "#cba6f7"
+      ],
+      "CHANNELS_DEFAULT": [
+      "#9399b2"
+      ],
+      "CHAT_BACKGROUND": [
+      "#1d1e30"
+      ],
+      "HEADER_PRIMARY": [
+      "#cdd6f4"
+      ],
+      "HEADER_SECONDARY": [
+      "#bac2de"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#eba0ac"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#f38ba8"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#585b70"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#9399b2"
+      ],
+      "MENTION_BACKGROUND": [
+      "#fab387"
+      ],
+      "MENTION_FOREGROUND": [
+      "#171a23"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#12151c"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#12151c"
+      ],
+ "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#12151c"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#1d1e30"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+      "#f38ba8"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+      "#f38ba8"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+      "#f38ba8"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+      "#f38ba8"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+      "#9399b2"
+      ],
+      "TEXT_DANGER": [
+      "#f38ba8"
+      ],
+      "TEXT_LINK": [
+      "#89b4fa"
+      ],
+      "TEXT_MUTED": [
+      "#a6adc8"
+      ],
+      "TEXT_NORMAL": [
+      "#cdd6f4"
+      ],
+      "TEXT_PRIMARY": [
+      "#cdd6f4"
+      ],
+      "TEXT_SECONDARY": [
+      "#a6adc8"
+      ]
+  },
+    "rawColors": {
+      "BRAND_260": "#f5e0dc",
+      "BRAND_360": "#a6e3a1",
+      "BRAND_500": "#cba6f7",
+      "GREEN_360": "#a6e3a1",
+      "PRIMARY_100": "#cdd6f4",
+      "PRIMARY_300": "#1d1e30",
+      "PRIMARY_360": "#f2cdcd",
+      "PRIMARY_400": "#b4befe",
+      "PRIMARY_460": "#171a23",
+      "PRIMARY_500": "#cdd6f4",
+      "BRAND_560": "#6c7086",
+      "PRIMARY_600": "#1d1e30",
+      "PRIMARY_645": "45475a",
+      "PRIMARY_630": "#1d1e30",
+      "PRIMARY_660": "#12151c",
+      "PRIMARY_700": "#12151c",
+      "PRIMARY_800": "#171a23",
+      "PLUM_1": "#cdd6f4",
+      "PLUM_10": "#bac2de",
+      "PLUM_11": "#313244",
+      "PLUM_13": "#bac2de",
+      "PLUM_15": "#45475a",
+      "PLUM_16": "#12151c",
+      "PLUM_17": "#12151c",
+      "PLUM_18": "#313244",
+      "PLUM_19": "#313244",
+      "PLUM_20": "#1d1e30",
+      "PLUM_21": "#89b4fa50",
+      "PLUM_22": "#313244",
+      "PLUM_24": "#313244",
+      "PLUM_25": "#171a23",
+      "PLUM_3": "#cdd6f4",
+      "PLUM_4": "#89b4fa50",
+      "PLUM_6": "#cdd6f4",
+      "PLUM_9": "#cdd6f4",
+      "RED_400": "#fab387",
+      "WHITE_500": "#1d1e30",
+      "YELLOW_300": "#f9e2af"
+    },
+    "plus":{
+       "version":"0",
+       "icons":{
+          "ic_new_pins":"#f38ba8",
+          "StatusStreaming": "#cba6f7",
+          "StatusMobileOnline": "#a6e3a1",
+          "StatusIdle": "#f9e2af",
+          "StatusDND": "#f38ba8",
+          "StatusOffline": "#9399b2",
+          "StatusOnline": "#a6e3a1"
+ }
+},
+    "spec": 2
+}
